@@ -1,4 +1,4 @@
 # tiger-cave
 ---
-permalink: /docs/index.html
+permalink: /index.html
 ---
